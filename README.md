@@ -9,3 +9,9 @@ npx skills add Dimabytes/skills-lib -g --skill '*'
 # Project level
 npx skills add Dimabytes/skills-lib --skill '*'
 ```
+
+Update later:
+
+```bash
+npx skills update
+```

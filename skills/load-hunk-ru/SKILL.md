@@ -1,5 +1,5 @@
 ---
-name: load-hunk
+name: load-hunk-ru![img.png](img.png)
 description: load hunk
 disable-model-invocation: true
 ---
